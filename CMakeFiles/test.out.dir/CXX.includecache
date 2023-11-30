@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/g/My Drive/2021-2022/2022Spring/CS170/project/project1/headers/AStar.hpp
+queue
+-
+vector
+-
+set
+-
+cmath
+-
+Tree.hpp
+/mnt/g/My Drive/2021-2022/2022Spring/CS170/project/project1/headers/Tree.hpp
+Board.hpp
+/mnt/g/My Drive/2021-2022/2022Spring/CS170/project/project1/headers/Board.hpp
+Problem.hpp
+/mnt/g/My Drive/2021-2022/2022Spring/CS170/project/project1/headers/Problem.hpp
+
+/mnt/g/My Drive/2021-2022/2022Spring/CS170/project/project1/headers/Board.hpp
+vector
+-
+iostream
+-
+
+/mnt/g/My Drive/2021-2022/2022Spring/CS170/project/project1/headers/Problem.hpp
+Tree.hpp
+/mnt/g/My Drive/2021-2022/2022Spring/CS170/project/project1/headers/Tree.hpp
+Board.hpp
+/mnt/g/My Drive/2021-2022/2022Spring/CS170/project/project1/headers/Board.hpp
+queue
+-
+set
+-
+
+/mnt/g/My Drive/2021-2022/2022Spring/CS170/project/project1/headers/Tree.hpp
+vector
+-
+iostream
+-
+Board.hpp
+/mnt/g/My Drive/2021-2022/2022Spring/CS170/project/project1/headers/Board.hpp
+
+/mnt/g/My Drive/2021-2022/2022Spring/CS170/project/project1/src/AStar.cpp
+../headers/AStar.hpp
+/mnt/g/My Drive/2021-2022/2022Spring/CS170/project/project1/headers/AStar.hpp
+

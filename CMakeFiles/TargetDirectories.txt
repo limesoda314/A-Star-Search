@@ -1,0 +1,4 @@
+/mnt/g/My Drive/2021-2022/2022Spring/CS170/project/project1/CMakeFiles/rebuild_cache.dir
+/mnt/g/My Drive/2021-2022/2022Spring/CS170/project/project1/CMakeFiles/edit_cache.dir
+/mnt/g/My Drive/2021-2022/2022Spring/CS170/project/project1/CMakeFiles/main.out.dir
+/mnt/g/My Drive/2021-2022/2022Spring/CS170/project/project1/CMakeFiles/test.out.dir

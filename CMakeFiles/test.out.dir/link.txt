@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/test.out.dir/test.cpp.o CMakeFiles/test.out.dir/src/AStar.cpp.o CMakeFiles/test.out.dir/src/Board.cpp.o CMakeFiles/test.out.dir/src/Problem.cpp.o CMakeFiles/test.out.dir/src/Tree.cpp.o  -o test.out 
